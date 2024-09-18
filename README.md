@@ -54,7 +54,7 @@ Ejecutar el archivo 'Inicial1Application.java' dentro del proyecto.
 
 ## Imagenes del Proyecto
 ### Entidades Creadas en H2
-![H2](./capturas%20proyecto/captura%20h2.png)
+![H2](./capturas%20proyecto/Captura%20H2.png)
 
 ### Vista de OPEN API
 ![OPEN API](./capturas%20proyecto/Open%20API.png)
